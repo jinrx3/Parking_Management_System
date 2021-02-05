@@ -1,0 +1,865 @@
+============================================================
+Time  2021/01/26 14:44:22 429 
+============================================================
+[2021/01/26 14:44:22 429] tts_purext 1581 Linux  
+[2021/01/26 14:44:22 435] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2021/01/26 14:44:22 435] tts_purext 1632 last gc at  1611643462  
+[2021/01/26 14:44:22 436] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2021/01/26 14:44:22 437] tts_purext 1632 last gc at  1611643462  
+[2021/01/26 14:44:22 437] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  9437353  
+[2021/01/26 14:44:22 438] tts_purext 1479 ssb_audio_id=  1  
+[2021/01/26 14:44:22 438] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2021/01/26 14:44:22 439] tts_purext 1316 nil  
+[2021/01/26 14:44:22 439] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2021/01/26 14:44:22 439] tts_purext 678  Disperse res  
+[2021/01/26 14:44:22 439] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2021/01/26 14:44:22 450] tts_purext 1320 res_change is  true  
+[2021/01/26 14:44:22 450] tts_purext 1336 res change  
+[2021/01/26 14:44:22 457] tts_purext 1142 lgi:  nil  nil  
+[2021/01/26 14:44:22 457] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2021/01/26 14:44:22 458] tts_purext 678  Disperse res  
+[2021/01/26 14:44:22 459] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2021/01/26 14:44:22 460] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2021/01/26 14:44:22 460] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2021/01/26 14:44:22 460] tts_purext 833  speech_plus_setting  0  
+[2021/01/26 14:44:22 461] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2021/01/26 14:44:22 464] tts_purext 844  res_mark  v5vn  
+[2021/01/26 14:44:22 465] tts_purext 845  check ret  0  
+[2021/01/26 14:44:22 466] tts_purext 853  v5vn  
+[2021/01/26 14:44:22 469] tts_purext 932  now expires:  1611643462  1619417582  
+[2021/01/26 14:44:22 469] tts_purext 833  speech_plus_setting  0  
+[2021/01/26 14:44:22 469] tts_purext 841  fo  res/xtts/common.jet  0  0  
+[2021/01/26 14:44:22 470] tts_purext 844  res_mark  v5vn  
+[2021/01/26 14:44:22 471] tts_purext 845  check ret  0  
+[2021/01/26 14:44:22 471] tts_purext 853  v5vn  
+[2021/01/26 14:44:22 473] tts_purext 932  now expires:  1611643462  1619417582  
+[2021/01/26 14:44:22 473] tts_purext 1216 vcn  common  
+[2021/01/26 14:44:22 474] auth       86   xtts  app  nil  nil  {"xtts":{"ver":"2","bus":{"expire_date":1619417582,"forbid":"0","nlimit":10}}}  
+[2021/01/26 14:44:22 477] auth       227  auth get xtts_res_id  nil  
+[2021/01/26 14:44:22 477] auth       420  nil  
+[2021/01/26 14:44:22 478] tts_purext 1260 fo  res/xtts/xiaoyan.jet  193  3819600  fo  res/xtts/common.jet  138  0  nil  
+[2021/01/26 14:44:22 573] tts_purext 1275 engine init success  
+[2021/01/26 14:44:22 573] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2021/01/26 14:44:22 573] tts_purext 678  Disperse res  
+[2021/01/26 14:44:22 574] tts_purext 1338 reinit ret:  0  
+[2021/01/26 14:44:22 575] tts_purext 1058 app auth  
+[2021/01/26 14:44:22 575] auth       687  app  nil  nil  nil  
+[2021/01/26 14:44:22 575] auth       744  ath rquest  {"authorize":[{"ver":"2.1.1","busin":"xtts"}]}  
+[2021/01/26 14:44:22 578] config     91   select default  
+[2021/01/26 14:44:22 589] config     113  use general cloud  
+[2021/01/26 14:44:22 589] transport  645  paramkvsport is   nil  
+[2021/01/26 14:44:22 590] transport  657  ns_enable=  1  
+[2021/01/26 14:44:22 590] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2021/01/26 14:44:22 590] transport  665  net.nettype=  unknown  
+[2021/01/26 14:44:22 590] transport  675  url.full=  nil  
+[2021/01/26 14:44:22 591] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2021/01/26 14:44:22 591] transport  907  net type:  unknown  
+[2021/01/26 14:44:22 592] transport  908  net operator:  def  
+[2021/01/26 14:44:22 592] transport  909  use proxy:  false  
+[2021/01/26 14:44:22 592] auth       799  not login!  
+[2021/01/26 14:44:22 593] auth       636  [session] send auth request  
+[2021/01/26 14:44:22 593] transport  1105 session.domain=  open.xf-yun.com  
+[2021/01/26 14:44:22 593] transport  1106 url.host=  open.xf-yun.com  
+[2021/01/26 14:44:22 594] transport  1083 NAMESERVER START  
+[2021/01/26 14:44:22 594] transport  1086 name =   ath  
+[2021/01/26 14:44:22 594] ns         634  ntt=  unknown  
+[2021/01/26 14:44:22 595] transport  1089 trans,ns_inprog =  0  
+[2021/01/26 14:44:22 595] ns         582  name server start  
+[2021/01/26 14:44:22 595] ns         588  ns_sub =   ath  
+[2021/01/26 14:44:22 596] ns         596  ns_host =   open.xf-yun.com  
+[2021/01/26 14:44:22 596] ns         475  ns_host=  open.xf-yun.com  
+[2021/01/26 14:44:22 596] ns         555  net_type =  standard  
+[2021/01/26 14:44:22 597] ns         556  cmwapascmnet =  
+[2021/01/26 14:44:22 597] ns         557  uniwapasuninet =  
+[2021/01/26 14:44:22 600] ns         558  ctwapasctnet =  
+[2021/01/26 14:44:22 601] ns         576  host=  hdns.xf-yun.com  
+[2021/01/26 14:44:22 601] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2021/01/26 14:44:22 608] auth       643  0  
+[2021/01/26 14:44:22 608] auth       606  lver:  nil  
+[2021/01/26 14:44:22 608] auth       611  cfg_ver:  nil  
+[2021/01/26 14:44:22 609] transport  1860 transport_obj.send | in  
+[2021/01/26 14:44:22 609] transport  1866 self.msg_flag_q  table(f0036e30) 
+[2021/01/26 14:44:22 609] transport  1867 self.msg_q  table(f0042a50) 
+[2021/01/26 14:44:22 618] transport  1799 transport_obj.try2send | in  
+[2021/01/26 14:44:22 619] transport  1800 self.soc  nil  
+[2021/01/26 14:44:22 622] transport  1801 self.connected  false  
+[2021/01/26 14:44:22 622] transport  1802 self.latesterr  0  
+[2021/01/26 14:44:22 622] transport  1873 transport_obj.send | out  
+[2021/01/26 14:44:22 623] tts_purext 1111 forbid_aisound =  0  
+[2021/01/26 14:44:22 623] tts_purext 1385 set voice name:  xiaoyan  
+[2021/01/26 14:44:22 623] tts_purext 1387 set default voice name:  xiaoyan  
+[2021/01/26 14:44:22 623] tts_purext 232  speed increase:  0  1  
+[2021/01/26 14:44:22 623] tts_purext 245  rcn:  0  
+[2021/01/26 14:44:22 625] tts_purext 527  v5vn  
+[2021/01/26 14:44:22 625] tts_purext 550  fit:  false  
+[2021/01/26 14:44:22 626] tts_purext 425  type:  speed  value:  50  weight:  50  double_weight:  100  
+[2021/01/26 14:44:22 626] tts_purext 425  type:  pitch  value:  50  weight:  50  double_weight:  100  
+[2021/01/26 14:44:22 627] tts_purext 425  type:  volume  value:  50  weight:  50  double_weight:  100  
+[2021/01/26 14:44:22 627] tts_purext 454  sample_rate:  528  
+[2021/01/26 14:44:22 627] tts_purext 467  text_encoding:  65001  
+[2021/01/26 14:44:22 629] tts_purext 488  rdn:  1  
+[2021/01/26 14:44:22 630] tts_purext 501  effect:  0  
+[2021/01/26 14:44:22 630] tts_purext 1632 last gc at  1611643462  
+[2021/01/26 14:44:22 631] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2021/01/26 14:44:22 631] tts_purext 1496 base64 =  5L2g5aW9LOaIkeWlvSzlpKflrrblpb0s5omN5piv55yf55qE5aW9LOWlveWlveWlvS4=  
+[2021/01/26 14:44:22 631] tts_purext 1523 ttp_audio_id=  1  
+[2021/01/26 14:44:22 632] tts_purext 1632 last gc at  1611643462  
+[2021/01/26 14:44:22 632] tts_purext 703  103  24101  0  8  udata(f0071598) 0  
+[2021/01/26 14:44:22 634] tts_purext 703  102  0  0  0  nil  1  
+[2021/01/26 14:44:22 639] tts_purext 713  abandon data:  2  102  
+[2021/01/26 14:44:22 686] tts_purext 703  101  528  7  960  udata(f00715e8) 1  
+[2021/01/26 14:44:22 686] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 686] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f00715e8) 
+[2021/01/26 14:44:22 687] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 711] tts_purext 703  101  528  7  960  udata(f0061d68) 1  
+[2021/01/26 14:44:22 711] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 711] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0061d68) 
+[2021/01/26 14:44:22 711] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 712] tts_purext 703  101  528  7  960  udata(f0022108) 1  
+[2021/01/26 14:44:22 712] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 712] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0022108) 
+[2021/01/26 14:44:22 713] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 713] tts_purext 703  101  528  7  960  udata(f007e848) 1  
+[2021/01/26 14:44:22 713] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 713] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f007e848) 
+[2021/01/26 14:44:22 713] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 720] tts_purext 703  101  528  7  954  udata(f007ec88) 1  
+[2021/01/26 14:44:22 720] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 720] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  954  ,data:  udata(f007ec88) 
+[2021/01/26 14:44:22 720] tts_purext 762  before local audiolen:  954  ,ced:  7  
+[2021/01/26 14:44:22 728] tts_purext 703  101  528  7  916  udata(f007f0c8) 1  
+[2021/01/26 14:44:22 729] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 729] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  916  ,data:  udata(f007f0c8) 
+[2021/01/26 14:44:22 729] tts_purext 762  before local audiolen:  916  ,ced:  7  
+[2021/01/26 14:44:22 729] tts_purext 703  101  528  7  1002  udata(f007f4c8) 1  
+[2021/01/26 14:44:22 729] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 730] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  1002  ,data:  udata(f007f4c8) 
+[2021/01/26 14:44:22 730] tts_purext 762  before local audiolen:  1002  ,ced:  7  
+[2021/01/26 14:44:22 731] tts_purext 703  101  528  7  922  udata(f008b0f8) 1  
+[2021/01/26 14:44:22 731] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 732] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  922  ,data:  udata(f008b0f8) 
+[2021/01/26 14:44:22 732] tts_purext 762  before local audiolen:  922  ,ced:  7  
+[2021/01/26 14:44:22 746] tts_purext 703  101  528  7  998  udata(f001deb8) 1  
+[2021/01/26 14:44:22 755] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 755] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  998  ,data:  udata(f001deb8) 
+[2021/01/26 14:44:22 755] tts_purext 762  before local audiolen:  998  ,ced:  7  
+[2021/01/26 14:44:22 759] tts_purext 703  101  528  7  788  udata(f00061b8) 1  
+[2021/01/26 14:44:22 759] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 759] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  788  ,data:  udata(f00061b8) 
+[2021/01/26 14:44:22 760] tts_purext 762  before local audiolen:  788  ,ced:  7  
+[2021/01/26 14:44:22 776] tts_purext 703  101  528  7  960  udata(f002d7b8) 1  
+[2021/01/26 14:44:22 776] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 777] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f002d7b8) 
+[2021/01/26 14:44:22 777] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 779] tts_purext 703  101  528  7  960  udata(f0080908) 1  
+[2021/01/26 14:44:22 779] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 780] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0080908) 
+[2021/01/26 14:44:22 793] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 808] tts_purext 703  101  528  7  960  udata(f0080d48) 1  
+[2021/01/26 14:44:22 817] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 818] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0080d48) 
+[2021/01/26 14:44:22 818] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 818] tts_purext 703  101  528  7  1010  udata(f0081188) 1  
+[2021/01/26 14:44:22 818] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 819] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  1010  ,data:  udata(f0081188) 
+[2021/01/26 14:44:22 819] tts_purext 762  before local audiolen:  1010  ,ced:  7  
+[2021/01/26 14:44:22 819] tts_purext 703  101  528  7  928  udata(f001e5a8) 1  
+[2021/01/26 14:44:22 820] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 824] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  928  ,data:  udata(f001e5a8) 
+[2021/01/26 14:44:22 825] tts_purext 762  before local audiolen:  928  ,ced:  7  
+[2021/01/26 14:44:22 825] tts_purext 703  101  528  7  954  udata(f001e5f8) 1  
+[2021/01/26 14:44:22 826] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 826] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  954  ,data:  udata(f001e5f8) 
+[2021/01/26 14:44:22 826] tts_purext 762  before local audiolen:  954  ,ced:  7  
+[2021/01/26 14:44:22 827] tts_purext 703  101  528  7  818  udata(f003ca68) 1  
+[2021/01/26 14:44:22 827] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 828] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  818  ,data:  udata(f003ca68) 
+[2021/01/26 14:44:22 828] tts_purext 762  before local audiolen:  818  ,ced:  7  
+[2021/01/26 14:44:22 829] tts_purext 703  101  528  7  852  udata(f003cab8) 1  
+[2021/01/26 14:44:22 829] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 830] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  852  ,data:  udata(f003cab8) 
+[2021/01/26 14:44:22 830] tts_purext 762  before local audiolen:  852  ,ced:  7  
+[2021/01/26 14:44:22 831] tts_purext 703  101  528  7  880  udata(f0061fa8) 1  
+[2021/01/26 14:44:22 831] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 832] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  880  ,data:  udata(f0061fa8) 
+[2021/01/26 14:44:22 833] tts_purext 762  before local audiolen:  880  ,ced:  7  
+[2021/01/26 14:44:22 835] tts_purext 703  101  528  7  918  udata(f0061ff8) 1  
+[2021/01/26 14:44:22 835] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 835] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  918  ,data:  udata(f0061ff8) 
+[2021/01/26 14:44:22 836] tts_purext 762  before local audiolen:  918  ,ced:  7  
+[2021/01/26 14:44:22 837] tts_purext 703  101  528  7  918  udata(f00716e8) 1  
+[2021/01/26 14:44:22 837] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 838] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  918  ,data:  udata(f00716e8) 
+[2021/01/26 14:44:22 838] tts_purext 762  before local audiolen:  918  ,ced:  7  
+[2021/01/26 14:44:22 839] tts_purext 703  101  528  7  960  udata(f0071738) 1  
+[2021/01/26 14:44:22 840] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 840] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0071738) 
+[2021/01/26 14:44:22 840] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 842] tts_purext 703  101  528  7  960  udata(f0081a08) 1  
+[2021/01/26 14:44:22 842] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 843] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0081a08) 
+[2021/01/26 14:44:22 843] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 847] tts_purext 703  101  528  7  960  udata(f0081a58) 1  
+[2021/01/26 14:44:22 847] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 848] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0081a58) 
+[2021/01/26 14:44:22 849] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 850] tts_purext 703  101  528  7  960  udata(f0042878) 1  
+[2021/01/26 14:44:22 851] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 851] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0042878) 
+[2021/01/26 14:44:22 852] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 853] tts_purext 703  101  528  7  960  udata(f00428c8) 1  
+[2021/01/26 14:44:22 853] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 853] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f00428c8) 
+[2021/01/26 14:44:22 854] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 855] tts_purext 703  101  528  7  960  udata(f0042918) 1  
+[2021/01/26 14:44:22 855] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 856] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0042918) 
+[2021/01/26 14:44:22 856] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 857] tts_purext 703  101  528  7  960  udata(f0009218) 1  
+[2021/01/26 14:44:22 858] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 858] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0009218) 
+[2021/01/26 14:44:22 858] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 860] tts_purext 703  101  528  7  960  udata(f0009268) 1  
+[2021/01/26 14:44:22 861] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 861] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  7  ,nSize:  960  ,data:  udata(f0009268) 
+[2021/01/26 14:44:22 861] tts_purext 762  before local audiolen:  960  ,ced:  7  
+[2021/01/26 14:44:22 862] tts_purext 703  101  528  14  960  udata(f00092b8) 1  
+[2021/01/26 14:44:22 864] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 865] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f00092b8) 
+[2021/01/26 14:44:22 865] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 867] tts_purext 703  101  528  14  960  udata(f0021958) 1  
+[2021/01/26 14:44:22 869] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 869] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f0021958) 
+[2021/01/26 14:44:22 869] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 870] tts_purext 703  101  528  14  1014  udata(f00219a8) 1  
+[2021/01/26 14:44:22 870] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 870] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  1014  ,data:  udata(f00219a8) 
+[2021/01/26 14:44:22 876] tts_purext 762  before local audiolen:  1014  ,ced:  14  
+[2021/01/26 14:44:22 877] tts_purext 703  101  528  14  958  udata(e40061f8) 1  
+[2021/01/26 14:44:22 877] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 878] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  958  ,data:  udata(e40061f8) 
+[2021/01/26 14:44:22 878] tts_purext 762  before local audiolen:  958  ,ced:  14  
+[2021/01/26 14:44:22 879] tts_purext 703  101  528  14  982  udata(f00219f8) 1  
+[2021/01/26 14:44:22 880] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 880] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  982  ,data:  udata(f00219f8) 
+[2021/01/26 14:44:22 880] tts_purext 762  before local audiolen:  982  ,ced:  14  
+[2021/01/26 14:44:22 880] tts_purext 703  101  528  14  938  udata(f00421f8) 1  
+[2021/01/26 14:44:22 881] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 881] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  938  ,data:  udata(f00421f8) 
+[2021/01/26 14:44:22 881] tts_purext 762  before local audiolen:  938  ,ced:  14  
+[2021/01/26 14:44:22 882] tts_purext 703  101  528  14  910  udata(f0042248) 1  
+[2021/01/26 14:44:22 882] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 882] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  910  ,data:  udata(f0042248) 
+[2021/01/26 14:44:22 882] tts_purext 762  before local audiolen:  910  ,ced:  14  
+[2021/01/26 14:44:22 884] tts_purext 703  101  528  14  960  udata(f0042298) 1  
+[2021/01/26 14:44:22 884] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 884] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f0042298) 
+[2021/01/26 14:44:22 884] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 885] tts_purext 703  101  528  14  960  udata(f001e138) 1  
+[2021/01/26 14:44:22 885] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 885] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f001e138) 
+[2021/01/26 14:44:22 886] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 887] tts_purext 703  101  528  14  960  udata(f001e188) 1  
+[2021/01/26 14:44:22 887] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 888] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f001e188) 
+[2021/01/26 14:44:22 888] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 889] tts_purext 703  101  528  14  1012  udata(f001e1d8) 1  
+[2021/01/26 14:44:22 889] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 890] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  1012  ,data:  udata(f001e1d8) 
+[2021/01/26 14:44:22 890] tts_purext 762  before local audiolen:  1012  ,ced:  14  
+[2021/01/26 14:44:22 891] tts_purext 703  101  528  14  908  udata(f0042078) 1  
+[2021/01/26 14:44:22 891] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 892] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  908  ,data:  udata(f0042078) 
+[2021/01/26 14:44:22 892] tts_purext 762  before local audiolen:  908  ,ced:  14  
+[2021/01/26 14:44:22 893] tts_purext 703  101  528  14  948  udata(f00420c8) 1  
+[2021/01/26 14:44:22 893] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 894] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  948  ,data:  udata(f00420c8) 
+[2021/01/26 14:44:22 894] tts_purext 762  before local audiolen:  948  ,ced:  14  
+[2021/01/26 14:44:22 895] tts_purext 703  101  528  14  820  udata(f0042118) 1  
+[2021/01/26 14:44:22 896] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 896] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  820  ,data:  udata(f0042118) 
+[2021/01/26 14:44:22 896] tts_purext 762  before local audiolen:  820  ,ced:  14  
+[2021/01/26 14:44:22 897] tts_purext 703  101  528  14  850  udata(f0042168) 1  
+[2021/01/26 14:44:22 897] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 897] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  850  ,data:  udata(f0042168) 
+[2021/01/26 14:44:22 898] tts_purext 762  before local audiolen:  850  ,ced:  14  
+[2021/01/26 14:44:22 900] tts_purext 703  101  528  14  876  udata(f0043a18) 1  
+[2021/01/26 14:44:22 900] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 901] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  876  ,data:  udata(f0043a18) 
+[2021/01/26 14:44:22 901] tts_purext 762  before local audiolen:  876  ,ced:  14  
+[2021/01/26 14:44:22 903] tts_purext 703  101  528  14  920  udata(f0043a68) 1  
+[2021/01/26 14:44:22 904] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 904] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  920  ,data:  udata(f0043a68) 
+[2021/01/26 14:44:22 904] tts_purext 762  before local audiolen:  920  ,ced:  14  
+[2021/01/26 14:44:22 906] tts_purext 703  101  528  14  954  udata(f0043ab8) 1  
+[2021/01/26 14:44:22 906] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 906] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  954  ,data:  udata(f0043ab8) 
+[2021/01/26 14:44:22 907] tts_purext 762  before local audiolen:  954  ,ced:  14  
+[2021/01/26 14:44:22 909] network    245  dns resp  0  ns1  
+[2021/01/26 14:44:22 909] ns         422  ns dns ok  42.62.116.35  
+[2021/01/26 14:44:22 909] ns         202  iplist not avail  
+[2021/01/26 14:44:22 911] ns         429  is_voicecloud_ip=  0  
+[2021/01/26 14:44:22 912] ns         436  ip_is_expected=  true  
+[2021/01/26 14:44:22 913] ns         444  ip_is_expected=  true  
+[2021/01/26 14:44:22 913] network    445  gethttpresp2  42.62.116.35  80  ns2  
+[2021/01/26 14:44:22 914] network    465  prot_type  tcp  
+[2021/01/26 14:44:22 919] tts_purext 703  101  528  14  868  udata(f002c8e8) 1  
+[2021/01/26 14:44:22 919] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 920] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  868  ,data:  udata(f002c8e8) 
+[2021/01/26 14:44:22 920] tts_purext 762  before local audiolen:  868  ,ced:  14  
+[2021/01/26 14:44:22 921] tts_purext 703  101  528  14  960  udata(f002e3a8) 1  
+[2021/01/26 14:44:22 922] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 922] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f002e3a8) 
+[2021/01/26 14:44:22 922] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 923] tts_purext 703  101  528  14  960  udata(f009c0c8) 1  
+[2021/01/26 14:44:22 923] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 924] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f009c0c8) 
+[2021/01/26 14:44:22 925] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 927] tts_purext 703  101  528  14  960  udata(f009c508) 1  
+[2021/01/26 14:44:22 927] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 928] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f009c508) 
+[2021/01/26 14:44:22 929] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 935] tts_purext 703  101  528  14  960  udata(f009c948) 1  
+[2021/01/26 14:44:22 935] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 936] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f009c948) 
+[2021/01/26 14:44:22 936] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 939] tts_purext 703  101  528  14  960  udata(f002e3f8) 1  
+[2021/01/26 14:44:22 940] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 940] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f002e3f8) 
+[2021/01/26 14:44:22 940] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 941] tts_purext 703  101  528  14  960  udata(f009c998) 1  
+[2021/01/26 14:44:22 941] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 941] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  14  ,nSize:  960  ,data:  udata(f009c998) 
+[2021/01/26 14:44:22 941] tts_purext 762  before local audiolen:  960  ,ced:  14  
+[2021/01/26 14:44:22 942] tts_purext 703  101  528  24  960  udata(f009c9e8) 1  
+[2021/01/26 14:44:22 942] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 942] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f009c9e8) 
+[2021/01/26 14:44:22 942] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 944] tts_purext 703  101  528  24  960  udata(f009ca38) 1  
+[2021/01/26 14:44:22 945] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 946] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f009ca38) 
+[2021/01/26 14:44:22 946] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 947] tts_purext 703  101  528  24  960  udata(f009ca88) 1  
+[2021/01/26 14:44:22 948] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 950] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f009ca88) 
+[2021/01/26 14:44:22 951] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 953] tts_purext 703  101  528  24  960  udata(f0044108) 1  
+[2021/01/26 14:44:22 954] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 954] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0044108) 
+[2021/01/26 14:44:22 954] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 956] tts_purext 703  101  528  24  990  udata(f0044158) 1  
+[2021/01/26 14:44:22 956] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 956] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  990  ,data:  udata(f0044158) 
+[2021/01/26 14:44:22 957] tts_purext 762  before local audiolen:  990  ,ced:  24  
+[2021/01/26 14:44:22 958] tts_purext 703  101  528  24  994  udata(f00441a8) 1  
+[2021/01/26 14:44:22 958] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 958] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  994  ,data:  udata(f00441a8) 
+[2021/01/26 14:44:22 959] tts_purext 762  before local audiolen:  994  ,ced:  24  
+[2021/01/26 14:44:22 962] tts_purext 703  101  528  24  944  udata(f00441f8) 1  
+[2021/01/26 14:44:22 962] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 962] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  944  ,data:  udata(f00441f8) 
+[2021/01/26 14:44:22 962] tts_purext 762  before local audiolen:  944  ,ced:  24  
+[2021/01/26 14:44:22 963] tts_purext 703  101  528  24  950  udata(f0044248) 1  
+[2021/01/26 14:44:22 963] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 964] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  950  ,data:  udata(f0044248) 
+[2021/01/26 14:44:22 964] tts_purext 762  before local audiolen:  950  ,ced:  24  
+[2021/01/26 14:44:22 966] tts_purext 703  101  528  24  952  udata(f004ce68) 1  
+[2021/01/26 14:44:22 967] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 967] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  952  ,data:  udata(f004ce68) 
+[2021/01/26 14:44:22 967] tts_purext 762  before local audiolen:  952  ,ced:  24  
+[2021/01/26 14:44:22 969] tts_purext 703  101  528  24  718  udata(f004ceb8) 1  
+[2021/01/26 14:44:22 969] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 971] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  718  ,data:  udata(f004ceb8) 
+[2021/01/26 14:44:22 971] tts_purext 762  before local audiolen:  718  ,ced:  24  
+[2021/01/26 14:44:22 972] tts_purext 703  101  528  24  960  udata(f004cf08) 1  
+[2021/01/26 14:44:22 972] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 973] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f004cf08) 
+[2021/01/26 14:44:22 973] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 975] tts_purext 703  101  528  24  960  udata(f004cf58) 1  
+[2021/01/26 14:44:22 975] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 976] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f004cf58) 
+[2021/01/26 14:44:22 976] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:22 977] tts_purext 703  101  528  24  968  udata(f004cfa8) 1  
+[2021/01/26 14:44:22 977] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 978] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  968  ,data:  udata(f004cfa8) 
+[2021/01/26 14:44:22 978] tts_purext 762  before local audiolen:  968  ,ced:  24  
+[2021/01/26 14:44:22 986] tts_purext 703  101  528  24  964  udata(f004cff8) 1  
+[2021/01/26 14:44:22 989] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:22 991] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  964  ,data:  udata(f004cff8) 
+[2021/01/26 14:44:22 992] tts_purext 762  before local audiolen:  964  ,ced:  24  
+[2021/01/26 14:44:22 994] transport  194  [dns] [1] response 59.107.24.11  
+[2021/01/26 14:44:22 994] transport  202  59  107  24  11  
+[2021/01/26 14:44:22 994] transport  204  ipv =  v4  
+[2021/01/26 14:44:22 996] transport  208  dns ip is v4  
+[2021/01/26 14:44:22 996] transport  130  iplist not avail  
+[2021/01/26 14:44:23 001] transport  247  no iplist now  
+[2021/01/26 14:44:23 009] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  59.107.24.11  
+[2021/01/26 14:44:23 011] transport  291  dns cb start conn  
+[2021/01/26 14:44:23 012] transport  1304 [soc] connect   59.107.24.11  1028  
+[2021/01/26 14:44:23 013] transport  1316 mspsoc.open,prot_type=  tcp  
+[2021/01/26 14:44:23 014] tts_purext 703  101  528  24  962  udata(f00a9578) 1  
+[2021/01/26 14:44:23 015] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 016] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  962  ,data:  udata(f00a9578) 
+[2021/01/26 14:44:23 016] tts_purext 762  before local audiolen:  962  ,ced:  24  
+[2021/01/26 14:44:23 020] tts_purext 703  101  528  24  938  udata(f00451a8) 1  
+[2021/01/26 14:44:23 021] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 021] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  938  ,data:  udata(f00451a8) 
+[2021/01/26 14:44:23 021] tts_purext 762  before local audiolen:  938  ,ced:  24  
+[2021/01/26 14:44:23 021] tts_purext 703  101  528  24  866  udata(f0036918) 1  
+[2021/01/26 14:44:23 022] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 022] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  866  ,data:  udata(f0036918) 
+[2021/01/26 14:44:23 022] tts_purext 762  before local audiolen:  866  ,ced:  24  
+[2021/01/26 14:44:23 023] tts_purext 703  101  528  24  960  udata(f0043378) 1  
+[2021/01/26 14:44:23 023] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 023] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0043378) 
+[2021/01/26 14:44:23 023] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 029] tts_purext 703  101  528  24  960  udata(f00aaca8) 1  
+[2021/01/26 14:44:23 029] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 030] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f00aaca8) 
+[2021/01/26 14:44:23 030] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 032] tts_purext 703  101  528  24  960  udata(f0071958) 1  
+[2021/01/26 14:44:23 032] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 032] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0071958) 
+[2021/01/26 14:44:23 033] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 035] tts_purext 703  101  528  24  982  udata(f002c7a8) 1  
+[2021/01/26 14:44:23 036] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 036] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  982  ,data:  udata(f002c7a8) 
+[2021/01/26 14:44:23 036] tts_purext 762  before local audiolen:  982  ,ced:  24  
+[2021/01/26 14:44:23 037] tts_purext 703  101  528  24  856  udata(f0048d28) 1  
+[2021/01/26 14:44:23 038] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 038] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  856  ,data:  udata(f0048d28) 
+[2021/01/26 14:44:23 039] tts_purext 762  before local audiolen:  856  ,ced:  24  
+[2021/01/26 14:44:23 041] tts_purext 703  101  528  24  1024  udata(f00515d8) 1  
+[2021/01/26 14:44:23 041] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 041] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  1024  ,data:  udata(f00515d8) 
+[2021/01/26 14:44:23 042] tts_purext 762  before local audiolen:  1024  ,ced:  24  
+[2021/01/26 14:44:23 044] tts_purext 703  101  528  24  870  udata(f00516f8) 1  
+[2021/01/26 14:44:23 044] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 045] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  870  ,data:  udata(f00516f8) 
+[2021/01/26 14:44:23 045] tts_purext 762  before local audiolen:  870  ,ced:  24  
+[2021/01/26 14:44:23 046] tts_purext 703  101  528  24  898  udata(f0044898) 1  
+[2021/01/26 14:44:23 046] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 046] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  898  ,data:  udata(f0044898) 
+[2021/01/26 14:44:23 047] tts_purext 762  before local audiolen:  898  ,ced:  24  
+[2021/01/26 14:44:23 048] tts_purext 703  101  528  24  940  udata(f0043328) 1  
+[2021/01/26 14:44:23 048] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 049] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  940  ,data:  udata(f0043328) 
+[2021/01/26 14:44:23 050] tts_purext 762  before local audiolen:  940  ,ced:  24  
+[2021/01/26 14:44:23 051] tts_purext 703  101  528  24  770  udata(f00435f8) 1  
+[2021/01/26 14:44:23 051] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 052] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  770  ,data:  udata(f00435f8) 
+[2021/01/26 14:44:23 052] tts_purext 762  before local audiolen:  770  ,ced:  24  
+[2021/01/26 14:44:23 053] tts_purext 703  101  528  24  842  udata(f0043888) 1  
+[2021/01/26 14:44:23 053] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 053] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  842  ,data:  udata(f0043888) 
+[2021/01/26 14:44:23 053] tts_purext 762  before local audiolen:  842  ,ced:  24  
+[2021/01/26 14:44:23 055] tts_purext 703  101  528  24  960  udata(f0077dd8) 1  
+[2021/01/26 14:44:23 056] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 056] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0077dd8) 
+[2021/01/26 14:44:23 056] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 057] tts_purext 703  101  528  24  960  udata(f0008338) 1  
+[2021/01/26 14:44:23 057] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 057] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0008338) 
+[2021/01/26 14:44:23 058] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 059] tts_purext 703  101  528  24  960  udata(f00371d8) 1  
+[2021/01/26 14:44:23 059] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 060] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f00371d8) 
+[2021/01/26 14:44:23 061] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 062] tts_purext 703  101  528  24  960  udata(f0044b78) 1  
+[2021/01/26 14:44:23 063] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 063] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0044b78) 
+[2021/01/26 14:44:23 063] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 064] tts_purext 703  101  528  24  960  udata(f00508e8) 1  
+[2021/01/26 14:44:23 064] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 065] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f00508e8) 
+[2021/01/26 14:44:23 065] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 067] tts_purext 703  101  528  24  960  udata(f0036b88) 1  
+[2021/01/26 14:44:23 067] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 068] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  24  ,nSize:  960  ,data:  udata(f0036b88) 
+[2021/01/26 14:44:23 069] tts_purext 762  before local audiolen:  960  ,ced:  24  
+[2021/01/26 14:44:23 073] tts_purext 703  101  528  40  960  udata(f002ba08) 1  
+[2021/01/26 14:44:23 073] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 074] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f002ba08) 
+[2021/01/26 14:44:23 075] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 075] tts_purext 703  101  528  40  960  udata(f00881b8) 1  
+[2021/01/26 14:44:23 075] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 075] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f00881b8) 
+[2021/01/26 14:44:23 077] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 079] tts_purext 703  101  528  40  960  udata(f00786a8) 1  
+[2021/01/26 14:44:23 079] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 079] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f00786a8) 
+[2021/01/26 14:44:23 079] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 081] tts_purext 703  101  528  40  960  udata(f0042818) 1  
+[2021/01/26 14:44:23 081] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 082] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f0042818) 
+[2021/01/26 14:44:23 085] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 086] tts_purext 703  101  528  40  960  udata(f0036fb8) 1  
+[2021/01/26 14:44:23 086] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 087] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f0036fb8) 
+[2021/01/26 14:44:23 087] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 092] tts_purext 703  101  528  40  960  udata(f004fed8) 1  
+[2021/01/26 14:44:23 093] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 093] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f004fed8) 
+[2021/01/26 14:44:23 094] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 095] tts_purext 703  101  528  40  942  udata(f004bf78) 1  
+[2021/01/26 14:44:23 095] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 095] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  942  ,data:  udata(f004bf78) 
+[2021/01/26 14:44:23 095] tts_purext 762  before local audiolen:  942  ,ced:  40  
+[2021/01/26 14:44:23 096] tts_purext 703  101  528  40  900  udata(f0042018) 1  
+[2021/01/26 14:44:23 097] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 098] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  900  ,data:  udata(f0042018) 
+[2021/01/26 14:44:23 098] tts_purext 762  before local audiolen:  900  ,ced:  40  
+[2021/01/26 14:44:23 099] tts_purext 703  101  528  40  1020  udata(f009c8e8) 1  
+[2021/01/26 14:44:23 100] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 100] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1020  ,data:  udata(f009c8e8) 
+[2021/01/26 14:44:23 101] tts_purext 762  before local audiolen:  1020  ,ced:  40  
+[2021/01/26 14:44:23 102] tts_purext 703  101  528  40  1000  udata(e4005918) 1  
+[2021/01/26 14:44:23 102] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 102] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1000  ,data:  udata(e4005918) 
+[2021/01/26 14:44:23 103] tts_purext 762  before local audiolen:  1000  ,ced:  40  
+[2021/01/26 14:44:23 104] tts_purext 703  101  528  40  808  udata(f0045528) 1  
+[2021/01/26 14:44:23 104] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 104] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  808  ,data:  udata(f0045528) 
+[2021/01/26 14:44:23 105] tts_purext 762  before local audiolen:  808  ,ced:  40  
+[2021/01/26 14:44:23 106] tts_purext 703  101  528  40  960  udata(f003aba8) 1  
+[2021/01/26 14:44:23 106] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 106] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f003aba8) 
+[2021/01/26 14:44:23 106] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 107] tts_purext 703  101  528  40  960  udata(f00450a8) 1  
+[2021/01/26 14:44:23 107] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 108] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f00450a8) 
+[2021/01/26 14:44:23 108] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 110] tts_purext 703  101  528  40  948  udata(f00a90d8) 1  
+[2021/01/26 14:44:23 110] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 110] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  948  ,data:  udata(f00a90d8) 
+[2021/01/26 14:44:23 110] tts_purext 762  before local audiolen:  948  ,ced:  40  
+[2021/01/26 14:44:23 111] tts_purext 703  101  528  40  1004  udata(f004fbe8) 1  
+[2021/01/26 14:44:23 111] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 112] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1004  ,data:  udata(f004fbe8) 
+[2021/01/26 14:44:23 112] tts_purext 762  before local audiolen:  1004  ,ced:  40  
+[2021/01/26 14:44:23 113] tts_purext 703  101  528  40  952  udata(f004f1c8) 1  
+[2021/01/26 14:44:23 114] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 114] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  952  ,data:  udata(f004f1c8) 
+[2021/01/26 14:44:23 114] tts_purext 762  before local audiolen:  952  ,ced:  40  
+[2021/01/26 14:44:23 115] tts_purext 703  101  528  40  990  udata(f004f898) 1  
+[2021/01/26 14:44:23 115] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 115] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  990  ,data:  udata(f004f898) 
+[2021/01/26 14:44:23 116] tts_purext 762  before local audiolen:  990  ,ced:  40  
+[2021/01/26 14:44:23 118] tts_purext 703  101  528  40  960  udata(f001f688) 1  
+[2021/01/26 14:44:23 118] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 118] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f001f688) 
+[2021/01/26 14:44:23 118] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 119] network    350  connected  ns2  
+[2021/01/26 14:44:23 121] tts_purext 703  101  528  40  960  udata(f002fdb8) 1  
+[2021/01/26 14:44:23 121] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 121] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f002fdb8) 
+[2021/01/26 14:44:23 122] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 123] tts_purext 703  101  528  40  994  udata(f00a1638) 1  
+[2021/01/26 14:44:23 123] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 123] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  994  ,data:  udata(f00a1638) 
+[2021/01/26 14:44:23 123] tts_purext 762  before local audiolen:  994  ,ced:  40  
+[2021/01/26 14:44:23 124] tts_purext 703  101  528  40  1000  udata(f00a1688) 1  
+[2021/01/26 14:44:23 125] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 125] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1000  ,data:  udata(f00a1688) 
+[2021/01/26 14:44:23 125] tts_purext 762  before local audiolen:  1000  ,ced:  40  
+[2021/01/26 14:44:23 127] tts_purext 703  101  528  40  984  udata(f0050fe8) 1  
+[2021/01/26 14:44:23 127] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 127] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  984  ,data:  udata(f0050fe8) 
+[2021/01/26 14:44:23 127] tts_purext 762  before local audiolen:  984  ,ced:  40  
+[2021/01/26 14:44:23 128] tts_purext 703  101  528  40  986  udata(f0030c28) 1  
+[2021/01/26 14:44:23 128] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 129] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  986  ,data:  udata(f0030c28) 
+[2021/01/26 14:44:23 129] tts_purext 762  before local audiolen:  986  ,ced:  40  
+[2021/01/26 14:44:23 130] tts_purext 703  101  528  40  976  udata(f0030c78) 1  
+[2021/01/26 14:44:23 131] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 131] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  976  ,data:  udata(f0030c78) 
+[2021/01/26 14:44:23 131] tts_purext 762  before local audiolen:  976  ,ced:  40  
+[2021/01/26 14:44:23 132] tts_purext 703  101  528  40  936  udata(f004fdc8) 1  
+[2021/01/26 14:44:23 132] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 133] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  936  ,data:  udata(f004fdc8) 
+[2021/01/26 14:44:23 133] tts_purext 762  before local audiolen:  936  ,ced:  40  
+[2021/01/26 14:44:23 134] tts_purext 703  101  528  40  922  udata(f002f758) 1  
+[2021/01/26 14:44:23 134] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 135] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  922  ,data:  udata(f002f758) 
+[2021/01/26 14:44:23 135] tts_purext 762  before local audiolen:  922  ,ced:  40  
+[2021/01/26 14:44:23 137] tts_purext 703  101  528  40  992  udata(f002f268) 1  
+[2021/01/26 14:44:23 137] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 137] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  992  ,data:  udata(f002f268) 
+[2021/01/26 14:44:23 138] tts_purext 762  before local audiolen:  992  ,ced:  40  
+[2021/01/26 14:44:23 139] tts_purext 703  101  528  40  914  udata(e400dbc8) 1  
+[2021/01/26 14:44:23 140] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 140] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  914  ,data:  udata(e400dbc8) 
+[2021/01/26 14:44:23 140] tts_purext 762  before local audiolen:  914  ,ced:  40  
+[2021/01/26 14:44:23 141] tts_purext 703  101  528  40  960  udata(f008b2e8) 1  
+[2021/01/26 14:44:23 142] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 142] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f008b2e8) 
+[2021/01/26 14:44:23 142] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 144] tts_purext 703  101  528  40  960  udata(f004c448) 1  
+[2021/01/26 14:44:23 145] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 145] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f004c448) 
+[2021/01/26 14:44:23 145] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 146] tts_purext 703  101  528  40  960  udata(f00a0f08) 1  
+[2021/01/26 14:44:23 146] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 147] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f00a0f08) 
+[2021/01/26 14:44:23 147] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 150] tts_purext 703  101  528  40  894  udata(f0094868) 1  
+[2021/01/26 14:44:23 150] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 150] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  894  ,data:  udata(f0094868) 
+[2021/01/26 14:44:23 150] tts_purext 762  before local audiolen:  894  ,ced:  40  
+[2021/01/26 14:44:23 151] tts_purext 703  101  528  40  898  udata(f0095d28) 1  
+[2021/01/26 14:44:23 152] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 152] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  898  ,data:  udata(f0095d28) 
+[2021/01/26 14:44:23 152] tts_purext 762  before local audiolen:  898  ,ced:  40  
+[2021/01/26 14:44:23 152] tts_purext 703  101  528  40  1020  udata(f0093368) 1  
+[2021/01/26 14:44:23 154] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 154] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1020  ,data:  udata(f0093368) 
+[2021/01/26 14:44:23 156] tts_purext 762  before local audiolen:  1020  ,ced:  40  
+[2021/01/26 14:44:23 157] tts_purext 703  101  528  40  862  udata(f002eb98) 1  
+[2021/01/26 14:44:23 157] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 157] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  862  ,data:  udata(f002eb98) 
+[2021/01/26 14:44:23 158] tts_purext 762  before local audiolen:  862  ,ced:  40  
+[2021/01/26 14:44:23 159] tts_purext 703  101  528  40  882  udata(f004f7c8) 1  
+[2021/01/26 14:44:23 159] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 159] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  882  ,data:  udata(f004f7c8) 
+[2021/01/26 14:44:23 160] tts_purext 762  before local audiolen:  882  ,ced:  40  
+[2021/01/26 14:44:23 161] tts_purext 703  101  528  40  902  udata(f0030328) 1  
+[2021/01/26 14:44:23 161] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 161] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  902  ,data:  udata(f0030328) 
+[2021/01/26 14:44:23 161] tts_purext 762  before local audiolen:  902  ,ced:  40  
+[2021/01/26 14:44:23 162] tts_purext 703  101  528  40  940  udata(f004aa28) 1  
+[2021/01/26 14:44:23 162] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 163] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  940  ,data:  udata(f004aa28) 
+[2021/01/26 14:44:23 163] tts_purext 762  before local audiolen:  940  ,ced:  40  
+[2021/01/26 14:44:23 165] tts_purext 703  101  528  40  1016  udata(f004a738) 1  
+[2021/01/26 14:44:23 165] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 166] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  1016  ,data:  udata(f004a738) 
+[2021/01/26 14:44:23 167] tts_purext 762  before local audiolen:  1016  ,ced:  40  
+[2021/01/26 14:44:23 168] tts_purext 703  101  528  40  960  udata(f0049d38) 1  
+[2021/01/26 14:44:23 169] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 169] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f0049d38) 
+[2021/01/26 14:44:23 169] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 170] tts_purext 703  101  528  40  960  udata(f0049838) 1  
+[2021/01/26 14:44:23 171] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 171] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f0049838) 
+[2021/01/26 14:44:23 171] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 172] transport  473  [soc] [1] connected  
+[2021/01/26 14:44:23 172] transport  1799 transport_obj.try2send | in  
+[2021/01/26 14:44:23 172] transport  1800 self.soc  udata(f004e538) 
+[2021/01/26 14:44:23 173] transport  1801 self.connected  true  
+[2021/01/26 14:44:23 173] transport  1802 self.latesterr  0  
+[2021/01/26 14:44:23 174] transport  1819 transport:try2send,#msg_q=  1  
+[2021/01/26 14:44:23 174] transport  1359 build http request.  
+[2021/01/26 14:44:23 175] transport  1476 POST /msp.do HTTP/1.1
+X-Sub: auth
+X-Par: ver=MSSP+0%2E9&sub=auth&cmd=rath&key=08nLiAjclR8AQ=
+Host: open.xf-yun.com
+CT: multipart/mixed;boundary=--
+CL: 332
+
+----
+Content-Length:48
+Content-Type:text/appinfo
+Content-Encoding:gzip
+
+36
+xœËN­´M3NL¶H50JNL16KKJ³4HK5515±0±453´H  
+[2021/01/26 14:44:23 177] transport  1819 transport:try2send,#msg_q=  0  
+[2021/01/26 14:44:23 177] tts_purext 703  101  528  40  960  udata(f0006268) 1  
+[2021/01/26 14:44:23 178] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 178] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f0006268) 
+[2021/01/26 14:44:23 178] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 179] tts_purext 703  101  528  40  960  udata(f001e778) 1  
+[2021/01/26 14:44:23 179] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 179] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f001e778) 
+[2021/01/26 14:44:23 180] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 184] tts_purext 703  101  528  40  960  udata(f003c128) 1  
+[2021/01/26 14:44:23 185] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 185] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  40  ,nSize:  960  ,data:  udata(f003c128) 
+[2021/01/26 14:44:23 185] tts_purext 762  before local audiolen:  960  ,ced:  40  
+[2021/01/26 14:44:23 186] tts_purext 703  101  528  50  960  udata(f007bff8) 1  
+[2021/01/26 14:44:23 187] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 187] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f007bff8) 
+[2021/01/26 14:44:23 187] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 188] tts_purext 703  101  528  50  960  udata(f4025088) 1  
+[2021/01/26 14:44:23 188] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 189] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f4025088) 
+[2021/01/26 14:44:23 189] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 191] tts_purext 703  101  528  50  960  udata(f007c828) 1  
+[2021/01/26 14:44:23 192] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 192] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f007c828) 
+[2021/01/26 14:44:23 192] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 193] tts_purext 703  101  528  50  960  udata(f007cc68) 1  
+[2021/01/26 14:44:23 193] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 193] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f007cc68) 
+[2021/01/26 14:44:23 194] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 198] tts_purext 703  101  528  50  960  udata(f007d0a8) 1  
+[2021/01/26 14:44:23 198] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 199] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f007d0a8) 
+[2021/01/26 14:44:23 199] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 200] tts_purext 703  101  528  50  960  udata(f007d4e8) 1  
+[2021/01/26 14:44:23 200] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 200] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f007d4e8) 
+[2021/01/26 14:44:23 200] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 202] tts_purext 703  101  528  50  966  udata(f007d928) 1  
+[2021/01/26 14:44:23 202] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 202] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  966  ,data:  udata(f007d928) 
+[2021/01/26 14:44:23 202] tts_purext 762  before local audiolen:  966  ,ced:  50  
+[2021/01/26 14:44:23 205] tts_purext 703  101  528  50  882  udata(f007e148) 1  
+[2021/01/26 14:44:23 205] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 206] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  882  ,data:  udata(f007e148) 
+[2021/01/26 14:44:23 206] tts_purext 762  before local audiolen:  882  ,ced:  50  
+[2021/01/26 14:44:23 207] tts_purext 703  101  528  50  942  udata(f007e198) 1  
+[2021/01/26 14:44:23 207] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 208] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  942  ,data:  udata(f007e198) 
+[2021/01/26 14:44:23 208] tts_purext 762  before local audiolen:  942  ,ced:  50  
+[2021/01/26 14:44:23 209] tts_purext 703  101  528  50  1002  udata(f007e1e8) 1  
+[2021/01/26 14:44:23 209] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 209] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  1002  ,data:  udata(f007e1e8) 
+[2021/01/26 14:44:23 209] tts_purext 762  before local audiolen:  1002  ,ced:  50  
+[2021/01/26 14:44:23 210] tts_purext 703  101  528  50  996  udata(f004b1c8) 1  
+[2021/01/26 14:44:23 211] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 211] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  996  ,data:  udata(f004b1c8) 
+[2021/01/26 14:44:23 211] tts_purext 762  before local audiolen:  996  ,ced:  50  
+[2021/01/26 14:44:23 213] tts_purext 703  101  528  50  940  udata(f008ac98) 1  
+[2021/01/26 14:44:23 214] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 216] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  940  ,data:  udata(f008ac98) 
+[2021/01/26 14:44:23 217] tts_purext 762  before local audiolen:  940  ,ced:  50  
+[2021/01/26 14:44:23 217] tts_purext 703  101  528  50  960  udata(f0084778) 1  
+[2021/01/26 14:44:23 218] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 218] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f0084778) 
+[2021/01/26 14:44:23 219] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 220] tts_purext 703  101  528  50  960  udata(f0048b88) 1  
+[2021/01/26 14:44:23 220] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 220] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f0048b88) 
+[2021/01/26 14:44:23 221] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 221] tts_purext 703  101  528  50  1006  udata(f0078438) 1  
+[2021/01/26 14:44:23 222] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 222] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  1006  ,data:  udata(f0078438) 
+[2021/01/26 14:44:23 222] tts_purext 762  before local audiolen:  1006  ,ced:  50  
+[2021/01/26 14:44:23 223] tts_purext 703  101  528  50  958  udata(f0051138) 1  
+[2021/01/26 14:44:23 223] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 224] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  958  ,data:  udata(f0051138) 
+[2021/01/26 14:44:23 224] tts_purext 762  before local audiolen:  958  ,ced:  50  
+[2021/01/26 14:44:23 225] tts_purext 703  101  528  50  910  udata(f00aa9c8) 1  
+[2021/01/26 14:44:23 225] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 225] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  910  ,data:  udata(f00aa9c8) 
+[2021/01/26 14:44:23 226] tts_purext 762  before local audiolen:  910  ,ced:  50  
+[2021/01/26 14:44:23 227] tts_purext 703  101  528  50  1008  udata(f0048dd8) 1  
+[2021/01/26 14:44:23 227] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 227] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  1008  ,data:  udata(f0048dd8) 
+[2021/01/26 14:44:23 227] tts_purext 762  before local audiolen:  1008  ,ced:  50  
+[2021/01/26 14:44:23 228] tts_purext 703  101  528  50  742  udata(f0048e28) 1  
+[2021/01/26 14:44:23 228] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 228] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  742  ,data:  udata(f0048e28) 
+[2021/01/26 14:44:23 228] tts_purext 762  before local audiolen:  742  ,ced:  50  
+[2021/01/26 14:44:23 232] tts_purext 703  101  528  50  960  udata(f004a528) 1  
+[2021/01/26 14:44:23 232] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 232] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f004a528) 
+[2021/01/26 14:44:23 233] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 235] tts_purext 703  101  528  50  960  udata(f004a578) 1  
+[2021/01/26 14:44:23 235] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 235] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f004a578) 
+[2021/01/26 14:44:23 236] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 236] tts_purext 703  101  528  50  960  udata(f002ea88) 1  
+[2021/01/26 14:44:23 236] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 237] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  960  ,data:  udata(f002ea88) 
+[2021/01/26 14:44:23 237] tts_purext 762  before local audiolen:  960  ,ced:  50  
+[2021/01/26 14:44:23 239] tts_purext 703  101  528  50  928  udata(f002ead8) 1  
+[2021/01/26 14:44:23 239] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 239] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  928  ,data:  udata(f002ead8) 
+[2021/01/26 14:44:23 239] tts_purext 762  before local audiolen:  928  ,ced:  50  
+[2021/01/26 14:44:23 240] tts_purext 703  101  528  50  832  udata(f002e6a8) 1  
+[2021/01/26 14:44:23 240] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 241] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  832  ,data:  udata(f002e6a8) 
+[2021/01/26 14:44:23 241] tts_purext 762  before local audiolen:  832  ,ced:  50  
+[2021/01/26 14:44:23 244] tts_purext 703  101  528  50  810  udata(f002e6f8) 1  
+[2021/01/26 14:44:23 244] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 244] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  810  ,data:  udata(f002e6f8) 
+[2021/01/26 14:44:23 245] tts_purext 762  before local audiolen:  810  ,ced:  50  
+[2021/01/26 14:44:23 246] tts_purext 703  101  528  50  876  udata(f004e0b8) 1  
+[2021/01/26 14:44:23 246] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 246] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  876  ,data:  udata(f004e0b8) 
+[2021/01/26 14:44:23 246] tts_purext 762  before local audiolen:  876  ,ced:  50  
+[2021/01/26 14:44:23 247] tts_purext 703  101  528  50  936  udata(f004e108) 1  
+[2021/01/26 14:44:23 247] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 247] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  936  ,data:  udata(f004e108) 
+[2021/01/26 14:44:23 248] tts_purext 762  before local audiolen:  936  ,ced:  50  
+[2021/01/26 14:44:23 249] tts_purext 703  101  528  50  770  udata(f0044a78) 1  
+[2021/01/26 14:44:23 249] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 250] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  770  ,data:  udata(f0044a78) 
+[2021/01/26 14:44:23 250] tts_purext 762  before local audiolen:  770  ,ced:  50  
+[2021/01/26 14:44:23 251] tts_purext 703  101  528  50  864  udata(f0044ac8) 1  
+[2021/01/26 14:44:23 251] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 251] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  864  ,data:  udata(f0044ac8) 
+[2021/01/26 14:44:23 252] tts_purext 762  before local audiolen:  864  ,ced:  50  
+[2021/01/26 14:44:23 252] tts_purext 703  101  528  50  932  udata(f002d118) 1  
+[2021/01/26 14:44:23 252] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 253] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  932  ,data:  udata(f002d118) 
+[2021/01/26 14:44:23 253] tts_purext 762  before local audiolen:  932  ,ced:  50  
+[2021/01/26 14:44:23 254] tts_purext 703  101  528  50  1664  udata(e40261f8) 1  
+[2021/01/26 14:44:23 255] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 255] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  1664  ,data:  udata(e40261f8) 
+[2021/01/26 14:44:23 255] tts_purext 762  before local audiolen:  1664  ,ced:  50  
+[2021/01/26 14:44:23 256] tts_purext 703  101  528  50  9600  udata(f002d168) 1  
+[2021/01/26 14:44:23 256] tts_purext 713  abandon data:  2  101  
+[2021/01/26 14:44:23 256] tts_purext 753  TTS_PUREXTTS_CB_OUTPUT  nCode:  528  ,ced:  50  ,nSize:  9600  ,data:  udata(f002d168) 
+[2021/01/26 14:44:23 257] tts_purext 762  before local audiolen:  9600  ,ced:  50  
+[2021/01/26 14:44:23 258] tts_purext 703  103  0  0  0  nil  1  
+[2021/01/26 14:44:23 258] tts_purext 713  abandon data:  2  103  
+[2021/01/26 14:44:23 259] tts_purext 740  TTS_PUREXTTS_CB_END  0  nil  
+[2021/01/26 14:44:23 260] network    353  send ok  268  ns2  
+[2021/01/26 14:44:23 261] network    362  readable  ns2  
+[2021/01/26 14:44:23 261] network    366  HTTP/1.1 200 OK
+Date: Tue, 26 Jan 2021 06:44:29 GMT
+Content-Type: application/json
+Content-Length: 307
+Connection: keep-alive
+Server: iflytek/hdns
+
+{"dns":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"58.67.223.138","port":80,"idc":"gz"},{"ip":"59.107.24.5","port":80,"idc":"gz"}],"ttl":6000,"compel":0}]}],"default":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"59.107.24.5","port":80,"idc":"gz"}],"ttl":6000,"compel":0}]}]}  
+[2021/01/26 14:44:23 262] ns         253  name server http resp  0  
+[2021/01/26 14:44:23 262] ns         266  ns response OK for this time!  
+[2021/01/26 14:44:23 263] ns         277  from_server=  iflytek/hdns  
+[2021/01/26 14:44:23 264] ns         360  compel :  0  
+[2021/01/26 14:44:23 264] transport  1063 ns_ip =   58.67.223.138  
+[2021/01/26 14:44:23 265] transport  1064 ip_type =  assigned_athopen.xf-yun.com_host  
+[2021/01/26 14:44:23 265] ns         670  no data in ns_q  
+[2021/01/26 14:44:23 265] ns         671  conti_ns,ns_inprog =   1  
+[2021/01/26 14:44:23 266] transport  482  [soc] [1] send ok  495  
+[2021/01/26 14:44:23 266] transport  1799 transport_obj.try2send | in  
+[2021/01/26 14:44:23 267] transport  1800 self.soc  udata(f004e538) 
+[2021/01/26 14:44:23 267] transport  1801 self.connected  true  
+[2021/01/26 14:44:23 267] transport  1802 self.latesterr  0  
+[2021/01/26 14:44:23 268] transport  1819 transport:try2send,#msg_q=  0  
+[2021/01/26 14:44:23 269] transport  494  [soc] [1] readable  
+[2021/01/26 14:44:23 270] transport  1767 HTTP/1.1 200 OK
+Content-Length: 84
+X-Req-Date: 2021/01/26 14:44:47 667
+X-Par: ver=MSSP+0%2E9&ret=0&key=09ui90ld11a94AlY4Xt8cKffdB/8GV14b22IaFkOC9DTcFje0FYeYjZw==
+CE: gzip
+CT: binary/authinfo
+CL: 84
+Content-Length: 84
+X-Res-Date: 2021/01/26 14:44:47 676
+
+78
+xœ«Vª())V²ªV*K-R²R2RÒQJ*¤Vd¥Æ§$–¤*YšZšš›Zé(¥å%e¦  
+[2021/01/26 14:44:23 272] transport  1494 a_complete_httpmessage  200  
+[2021/01/26 14:44:23 272] transport  1604 is_update  true  
+[2021/01/26 14:44:23 273] transport  1608 port updated  1028  
+[2021/01/26 14:44:23 273] transport  1610 switch  1028  
+[2021/01/26 14:44:23 273] auth       455  [trans] [id = table: 0x7f96f0077e00;;;=0===;auth] readable  
+[2021/01/26 14:44:23 275] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  59.107.24.11  
+[2021/01/26 14:44:23 275] transport  981  cached ip is confirmed  
+[2021/01/26 14:44:23 276] transport  1332 [soc] disconnect   
+[2021/01/26 14:44:23 277] transport  991  transport clean  
+[2021/01/26 14:44:23 278] auth       491  auth_json=  udata(f0039f68) 
+[2021/01/26 14:44:23 278] auth       492  tostring(auth_json)=  {"xtts":{"ver":"2","bus":{"expire_date":1619417582,"forbid":"0","nlimit":10}}}  
+[2021/01/26 14:44:23 278] auth       86   xtts  app  nil  nil  {"xtts":{"ver":"2","bus":{"expire_date":1619417582,"forbid":"0","nlimit":10}}}  
+[2021/01/26 14:44:23 280] auth       227  auth get xtts_res_id  nil  
+[2021/01/26 14:44:23 283] auth       512  auth ok!  
+[2021/01/26 14:44:23 438] tts_purext 1539 TTS_PUREXTTS_MSG_END  0  
+[2021/01/26 14:44:23 439] tts_purext 943  plog_process  []  nil  
+[2021/01/26 14:44:23 441] tts_purext 1632 last gc at  1611643462  
+[2021/01/26 14:44:25 606] tts_purext 1597 SYS_MSG_SHUTDOWN_LOCAL  
+[2021/01/26 14:44:25 624] tts_purext 1632 last gc at  1611643462  
